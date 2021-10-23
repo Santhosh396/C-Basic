@@ -1,0 +1,5 @@
+#include<stdio.h>
+void main()
+{
+	printf("ROLL NO\t:\t20P35A0113\n\nNAME\t:\tADABALA SANTHOSH RAJ\n\nBRANCH\t:\tCIVIL DEPARTMENT\n\nCOLLEGE\t:\tADITYA COLLEGE OF ENGINEERING AND TECH.");
+}
